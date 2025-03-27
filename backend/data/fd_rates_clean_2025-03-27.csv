@@ -1,0 +1,118 @@
+tenure_description,min_days,max_days,regular_rate,senior_rate,category,bank,scraped_date
+1 year to 1 year 10 days,365,365,6.7,7.45,General,Axis Bank,2025-03-27
+15 Months < 2 Years,450,450,7.25,7.3,General,Axis Bank,2025-03-27
+181 days and above,181,181,0.5,,General,Kotak Mahindra Bank,2025-03-27
+Greater than 180 days to less than or equal to 364 days,180,180,0.5,,General,Kotak Mahindra Bank,2025-03-27
+Greater than or equal to 365 days,365,365,1.0,,General,Kotak Mahindra Bank,2025-03-27
+Greater than 180 days to less than or equal to 364 days,180,180,0.5,,General,Kotak Mahindra Bank,2025-03-27
+Greater than or equal to 365 days,365,365,1.0,,General,Kotak Mahindra Bank,2025-03-27
+Less than 1 year,365,365,0.5,0.5,General,ICICI Bank,2025-03-27
+1 year and above but < 5 years,365,365,1.0,1.0,General,ICICI Bank,2025-03-27
+5 years and above,1825,1825,1.0,1.5,General,ICICI Bank,2025-03-27
+7 days to 14days,7,14,6.8,6.0,General,Indian Bank,2025-03-27
+15 days to 29 days,15,29,6.5,6.5,General,Indian Bank,2025-03-27
+30 days to 45 days,30,45,7.0,7.0,General,Indian Bank,2025-03-27
+46 days to 90 days,46,90,7.25,7.25,General,Indian Bank,2025-03-27
+91 days to 120 days,91,120,7.4,7.4,General,Indian Bank,2025-03-27
+121 days to 180 days,121,180,7.45,7.45,General,Indian Bank,2025-03-27
+181 days to less than 9 months,181,181,7.5,7.5,General,Indian Bank,2025-03-27
+9 months to less than 1 year,270,270,7.5,7.5,General,Indian Bank,2025-03-27
+1 year,365,365,7.6,7.7,General,Indian Bank,2025-03-27
+Above 1 year to less than 2 years,365,365,7.25,7.25,General,Indian Bank,2025-03-27
+2 years to less than 3 years,730,730,6.25,6.25,General,Indian Bank,2025-03-27
+3 years to less than 5 years,1095,1095,6.0,6.0,General,Indian Bank,2025-03-27
+5 years,1825,1825,6.0,6.0,General,Indian Bank,2025-03-27
+Above 5 years,1825,1825,6.0,6.0,General,Indian Bank,2025-03-27
+"7 Days to 45
+                                             Days",7,45,4.0,4.06,General,Canara Bank,2025-03-27
+"46 Days to 90
+                                             Days",46,90,5.25,5.35,General,Canara Bank,2025-03-27
+"91 Days to 179
+                                             Days",91,179,5.5,5.61,General,Canara Bank,2025-03-27
+"180 Days to 269
+                                             Days",180,269,6.15,6.29,General,Canara Bank,2025-03-27
+"270 Days to less than
+                                             1 Year",270,270,6.25,6.4,General,Canara Bank,2025-03-27
+1 Year Only,365,365,6.85,7.03,General,Canara Bank,2025-03-27
+444 Days,444,444,7.25,7.45,General,Canara Bank,2025-03-27
+"Above 1 Year to less
+                                             than 2 Years",365,365,6.85,7.03,General,Canara Bank,2025-03-27
+"2 Years & above
+                                             to less than 3 Years",730,730,7.3,7.5,General,Canara Bank,2025-03-27
+"3 Years & above
+                                             to less than 5 Years",1095,1095,7.4,7.61,General,Canara Bank,2025-03-27
+"5 Years & above
+                                             to 10 Years",1825,1825,6.7,6.87,General,Canara Bank,2025-03-27
+"1 month & above but less than 3
+                                             months",30,30,0.1,0.1,General,Canara Bank,2025-03-27
+"3 months & above but less than 6
+                                             months",90,90,0.1,0.1,General,Canara Bank,2025-03-27
+"6 months & above but less than 1
+                                             year",180,180,0.1,0.1,General,Canara Bank,2025-03-27
+"1 year & above but less than 2
+                                             years",365,365,5.45,5.55,General,Canara Bank,2025-03-27
+"2 years & above but less than 3
+                                             years",730,730,4.0,4.0,General,Canara Bank,2025-03-27
+3 years only,1095,1095,3.7,3.7,General,Canara Bank,2025-03-27
+"7 Days to 45
+                                             Days",7,45,4.0,4.06,General,Canara Bank,2025-03-27
+"46 Days to 90
+                                             Days",46,90,5.25,5.35,General,Canara Bank,2025-03-27
+"91 Days to 179
+                                             Days",91,179,5.5,5.61,General,Canara Bank,2025-03-27
+"180 Days to 269
+                                             Days",180,269,6.15,6.29,General,Canara Bank,2025-03-27
+"270 Days to less than
+                                             1 Year",270,270,6.25,6.4,General,Canara Bank,2025-03-27
+1 Year Only,365,365,6.85,7.03,General,Canara Bank,2025-03-27
+444 Days,444,444,7.25,7.45,General,Canara Bank,2025-03-27
+"Above 1 Year to less
+                                             than 2 Years",365,365,6.85,7.03,General,Canara Bank,2025-03-27
+"2 Years & above
+                                             to less than 3 Years",730,730,7.3,7.5,General,Canara Bank,2025-03-27
+"3 Years & above
+                                             to less than 5 Years",1095,1095,7.4,7.61,General,Canara Bank,2025-03-27
+"5 Years & above
+                                             to 10 Years",1825,1825,6.7,6.87,General,Canara Bank,2025-03-27
+"7 Days to 45
+                                             Days",7,45,4.0,4.06,General,Canara Bank,2025-03-27
+"46 Days to 90
+                                             Days",46,90,5.25,5.35,General,Canara Bank,2025-03-27
+"91 Days to 179
+                                             Days",91,179,5.5,5.61,General,Canara Bank,2025-03-27
+"180 Days to 269
+                                             Days",180,269,6.15,6.29,General,Canara Bank,2025-03-27
+"270 Days to less than
+                                             1 Year",270,270,6.25,6.4,General,Canara Bank,2025-03-27
+1 Year Only,365,365,6.85,7.03,General,Canara Bank,2025-03-27
+444 Days,444,444,7.25,7.45,General,Canara Bank,2025-03-27
+"Above 1 Year to less
+                                             than 2 Years",365,365,6.85,7.03,General,Canara Bank,2025-03-27
+"2 Years & above
+                                             to less than 3 Years",730,730,7.3,7.5,General,Canara Bank,2025-03-27
+"3 Years & above
+                                             to less than 5 Years",1095,1095,7.4,7.61,General,Canara Bank,2025-03-27
+"5 Years & above
+                                             to 10 Years",1825,1825,6.7,6.87,General,Canara Bank,2025-03-27
+"1 month & above but less than 3
+                                             months",30,30,0.1,0.1,General,Canara Bank,2025-03-27
+"3 months & above but less than 6
+                                             months",90,90,0.1,0.1,General,Canara Bank,2025-03-27
+"6 months & above but less than 1
+                                             year",180,180,0.1,0.1,General,Canara Bank,2025-03-27
+"1 year & above but less than 2
+                                             years",365,365,5.45,5.55,General,Canara Bank,2025-03-27
+"2 years & above but less than 3
+                                             years",730,730,4.0,4.0,General,Canara Bank,2025-03-27
+3 years only,1095,1095,3.7,3.7,General,Canara Bank,2025-03-27
+"1 month & above but less than 3
+                                             months",30,30,0.1,0.1,General,Canara Bank,2025-03-27
+"3 months & above but less than 6
+                                             months",90,90,0.1,0.1,General,Canara Bank,2025-03-27
+"6 months & above but less than 1
+                                             year",180,180,0.1,0.1,General,Canara Bank,2025-03-27
+"1 year & above but less than 2
+                                             years",365,365,5.45,5.55,General,Canara Bank,2025-03-27
+"2 years & above but less than 3
+                                             years",730,730,4.0,4.0,General,Canara Bank,2025-03-27
+3 years only,1095,1095,3.7,3.7,General,Canara Bank,2025-03-27
